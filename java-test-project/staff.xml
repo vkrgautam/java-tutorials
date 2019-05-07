@@ -1,0 +1,7 @@
+<staff id="1001">
+	<firstName xmlns="">James</firstName>
+	<lastName xmlns="">Walker</lastName>
+	<nickName xmlns="">Jo</nickName>
+	<salary xmlns="">100000</salary>
+	<joininDdate xmlns=""></joininDdate>
+</staff>
