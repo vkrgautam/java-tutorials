@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-class StreamDemo2 {
+class MapStreamDemo {
 
 	public static void main(String[] args) {
 		List<Integer> list1 = new ArrayList<>();
