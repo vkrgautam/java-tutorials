@@ -7,11 +7,11 @@ import org.junit.Test;
 
 public class JUnitDemo {
 	
-	private UTDemo utdemo;
+	private StringChecks utdemo;
 
 	@Before
 	public void setUp() {
-		utdemo = new UTDemo();
+		utdemo = new StringChecks();
 	}
 	
 	@Test
@@ -21,7 +21,6 @@ public class JUnitDemo {
 	
 	@Test
 	public void testIsAnagramStrings() {
-		UTDemo utdemo = new UTDemo();
 		assertTrue(utdemo.isAnagramStrings("below", "elbow"));
 	}
 }

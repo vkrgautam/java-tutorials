@@ -2,7 +2,7 @@ package com.demo.ut;
 
 import java.util.Arrays;
 
-public class UTDemo {
+public class StringChecks {
 
 	public boolean isPalindromeString(String str) {
 		String revStr = "";
